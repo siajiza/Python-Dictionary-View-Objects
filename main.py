@@ -53,7 +53,7 @@ print(len(teams.values()))
 print(list(teams.values())[1][1][0])
 # P -> ['Pujols']
 
-MAKE A SAFE COPY of the "players", and will convert on a new name´s list -> players_copy_list
+# MAKE A SAFE COPY of the "players", and will convert on a new name´s list -> players_copy_list
 
 players_copy_list = list(players.copy())
 print(players_copy_list)
